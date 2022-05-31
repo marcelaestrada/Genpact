@@ -4,6 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>htc_setup_icon-icons.com_72012.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>

@@ -29,6 +29,7 @@ namespace FolderWatcher
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FolderWatcherForm));
             this.lblSelect = new System.Windows.Forms.Label();
             this.folderBrowser = new System.Windows.Forms.FolderBrowserDialog();
             this.tbPath = new System.Windows.Forms.TextBox();
@@ -82,6 +83,7 @@ namespace FolderWatcher
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.tbPath);
             this.Controls.Add(this.lblSelect);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FolderWatcherForm";
             this.RightToLeftLayout = true;
             this.Text = "Folder Watcher";

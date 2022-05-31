@@ -4,7 +4,6 @@ D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\bin\Debug\netc
 D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\bin\Debug\netcoreapp3.1\FolderWatcher.runtimeconfig.dev.json
 D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\bin\Debug\netcoreapp3.1\FolderWatcher.dll
 D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\bin\Debug\netcoreapp3.1\FolderWatcher.pdb
-D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\obj\Debug\netcoreapp3.1\FolderWatcher.csproj.AssemblyReference.cache
 D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\obj\Debug\netcoreapp3.1\FolderWatcher.FolderWatcherForm.resources
 D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\obj\Debug\netcoreapp3.1\FolderWatcher.csproj.GenerateResource.cache
 D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\obj\Debug\netcoreapp3.1\FolderWatcher.GeneratedMSBuildEditorConfig.editorconfig
@@ -18,3 +17,5 @@ D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\bin\Debug\netc
 D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\bin\Debug\netcoreapp3.1\Spire.Pdf.dll
 D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\bin\Debug\netcoreapp3.1\Spire.XLS.dll
 D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\obj\Debug\netcoreapp3.1\FolderWatcher.Properties.Resources.resources
+D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\obj\Debug\netcoreapp3.1\FolderWatcher.csproj.CopyComplete
+D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\obj\Debug\netcoreapp3.1\FolderWatcher.csproj.AssemblyReference.cache
