@@ -33,9 +33,7 @@ namespace FolderWatcher
             this.folderBrowser = new System.Windows.Forms.FolderBrowserDialog();
             this.tbPath = new System.Windows.Forms.TextBox();
             this.btnSearch = new System.Windows.Forms.Button();
-            this.lblChanges = new System.Windows.Forms.Label();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.groupBox1.SuspendLayout();
+            this.btnCancel = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblSelect
@@ -64,39 +62,29 @@ namespace FolderWatcher
             this.btnSearch.UseVisualStyleBackColor = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
-            // lblChanges
+            // btnCancel
             // 
-            this.lblChanges.AutoSize = true;
-            this.lblChanges.Location = new System.Drawing.Point(18, 29);
-            this.lblChanges.Name = "lblChanges";
-            this.lblChanges.Size = new System.Drawing.Size(54, 15);
-            this.lblChanges.TabIndex = 3;
-            this.lblChanges.Text = "Cambios";
-            // 
-            // groupBox1
-            // 
-            this.groupBox1.Controls.Add(this.lblChanges);
-            this.groupBox1.Location = new System.Drawing.Point(31, 92);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(511, 234);
-            this.groupBox1.TabIndex = 4;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "groupBox1";
+            this.btnCancel.BackColor = System.Drawing.SystemColors.Control;
+            this.btnCancel.Location = new System.Drawing.Point(466, 82);
+            this.btnCancel.Name = "btnCancel";
+            this.btnCancel.Size = new System.Drawing.Size(75, 25);
+            this.btnCancel.TabIndex = 3;
+            this.btnCancel.Text = "Cancel";
+            this.btnCancel.UseVisualStyleBackColor = false;
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // FolderWatcherForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(569, 351);
-            this.Controls.Add(this.groupBox1);
+            this.ClientSize = new System.Drawing.Size(569, 134);
+            this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.tbPath);
             this.Controls.Add(this.lblSelect);
             this.Name = "FolderWatcherForm";
             this.RightToLeftLayout = true;
             this.Text = "Folder Watcher";
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -108,8 +96,7 @@ namespace FolderWatcher
         private System.Windows.Forms.FolderBrowserDialog folderBrowser;
         private System.Windows.Forms.TextBox tbPath;
         private System.Windows.Forms.Button btnSearch;
-        private System.Windows.Forms.Label lblChanges;
-        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Button btnCancel;
     }
 }
 

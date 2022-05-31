@@ -17,3 +17,4 @@ D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\obj\Debug\netc
 D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\bin\Debug\netcoreapp3.1\Spire.License.dll
 D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\bin\Debug\netcoreapp3.1\Spire.Pdf.dll
 D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\bin\Debug\netcoreapp3.1\Spire.XLS.dll
+D:\Marce\Genpact\Programming Exercise\FolderWatcher\FolderWatcher\obj\Debug\netcoreapp3.1\FolderWatcher.Properties.Resources.resources
